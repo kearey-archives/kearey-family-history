@@ -1,7 +1,8 @@
 
 :root{--bg:#fffdf8;--paper:#fbf7ec;--ink:#1f2937;--line:#e2e8f0;--link:#1d4ed8;--linkv:#7c3aed;--hl:#fde68a}
 *{box-sizing:border-box}
-html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.7}
+html,body{margin:0;padding:0;background:var(--bg);color:var(--ink);font-family:Georgia,'Times New Roman',serif;line-height:1.5}
+p{margin:0 0 0.9em 0}
 a{color:var(--link)}a:visited{color:var(--linkv)}
 .wrap{max-width:980px;margin:0 auto;padding:18px 16px 84px}
 .brand{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;background:#fffdf8;padding:32px 16px;border-bottom:1px solid var(--line)}
