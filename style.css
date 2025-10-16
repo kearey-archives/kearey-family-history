@@ -1,0 +1,161 @@
+/* ======= PAGE BASE ======= */
+body {
+  background: #f8f5ec;
+  font-family: "Georgia", serif;
+  color: #2e2817;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+main.paper {
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 0 1.2rem;
+}
+
+/* ======= HEADER & MONOGRAM ======= */
+header.brand {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+}
+
+header .emblem {
+  font-family: "Garamond", Georgia, serif;
+  font-size: 3.2rem;
+  font-weight: 600;
+  color: #b99a5a;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.5rem;
+  height: 4.5rem;
+  border: 2px solid #b99a5a;
+  border-radius: 50%;
+  margin: 0 auto 0.7rem;
+  text-shadow: 0 0 1px rgba(0,0,0,0.15);
+  background: radial-gradient(circle at center, #f8f5ec 0%, #f2ebdb 100%);
+}
+
+header.brand h1 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #3a2f16;
+  margin: 0.5rem 0 0.2rem;
+}
+
+header.brand .subtitle {
+  font-size: 1rem;
+  color: #6d5f3b;
+  margin: 0;
+}
+
+/* ======= NAVIGATION (classic parchment style) ======= */
+nav.nav {
+  text-align: center;
+  background: #e8dfc8;
+  border-top: 1px solid #d2c6a4;
+  border-bottom: 1px solid #d2c6a4;
+  padding: 0.5rem 0.2rem;
+  margin-bottom: 1.5rem;
+}
+
+nav.nav a {
+  color: #5b4d27;
+  margin: 0 0.6rem;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+nav.nav a:hover {
+  text-decoration: underline;
+  color: #3a2f16;
+}
+
+/* ======= FOOTNOTES ======= */
+sup a {
+  color: #8c7834;
+  text-decoration: none;
+  font-weight: 600;
+}
+sup a:hover {
+  text-decoration: underline;
+}
+
+.notes {
+  margin-top: 2rem;
+}
+.notes h3 {
+  font-size: 1.1rem;
+  color: #5a4f2c;
+  margin-bottom: 0.5rem;
+}
+
+.notes h4 {
+  color: #5a4f2c;
+}
+
+.notes a {
+  color: #8c7834;
+  text-decoration: none;
+}
+.notes a:hover {
+  text-decoration: underline;
+}
+
+.notes ol {
+  padding-left: 1.4rem;
+  margin: 0;
+}
+.notes ol li {
+  margin-bottom: 0.4rem;
+  color: #3b321b;
+}
+.notes ol li a {
+  color: #8c7834;
+  text-decoration: none;
+  margin-left: 4px;
+}
+.notes ol li a:hover {
+  text-decoration: underline;
+}
+
+.notes ul {
+  padding-left: 1.4rem;
+  margin: 0;
+}
+.notes ul li {
+  margin-bottom: 0.4rem;
+  color: #3b321b;
+}
+.notes ul li a {
+  color: #8c7834;
+  text-decoration: none;
+  margin-left: 4px;
+}
+.notes ul li a:hover {
+  text-decoration: underline;
+}
+
+/* ======= DIVIDERS ======= */
+hr.soft {
+  border: none;
+  border-top: 1px solid #ddd5c2;
+  margin: 2rem 0;
+}
+
+/* ======= FOOTER ======= */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #6b6040;
+  margin: 3rem 0 1.5rem;
+}
+footer a {
+  color: #8c7834;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
