@@ -1,0 +1,28 @@
+{
+  "name": "Keary Family History",
+  "short_name": "KearyHistory",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e2e2e",
+  "description": "A genealogical and sociohistorical study of the Keary family of County Meath, Ireland (c.1730–1969).",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-IE",
+  "orientation": "portrait"
+}
