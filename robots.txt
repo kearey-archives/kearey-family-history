@@ -1,0 +1,12 @@
+# robots.txt for Keary / Kearey Family History Archive
+
+User-agent: *
+Allow: /
+
+# Disallow any private or non-public directories (optional)
+Disallow: /assets/
+Disallow: /drafts/
+Disallow: /private/
+
+# Sitemap reference
+Sitemap: https://kearey-archives.github.io/kearey-family-history/sitemap.xml
