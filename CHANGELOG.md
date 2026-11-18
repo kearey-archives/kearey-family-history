@@ -1,5 +1,16 @@
 # Keary Family History – CHANGELOG
 
+## Source reconciliation — proposed, 18 November 2026 (not published)
+- Reviewed Terence Kearey’s supplied family tree, Collins family tree, *Ciardha/Kearey*, *The London Keareys* and *Albert Kearey: Distinguished Conduct*.
+- Corrected Chapter VIII’s account of Alfred Kearey’s death, the number of sons lost in the First World War, unverified occupational titles and blanket Catholic descriptions; distinguished historical fiction from source evidence.
+- Added source and uncertainty notes; original documents still require independent verification.
+
+## Editorial correction — proposed, 18 November 2026 (not published)
+- Clarify that the Dublin–London Kearey history is documented separately from the County Meath families; no direct genealogical relationship is currently established.
+- Revise introduction, Chapter VIII, Chapter IX, README and consistent chapter navigation; retain all existing URLs and family-record entries.
+- Qualify speculative explanations of surname spelling and migration motives.
+- No changes to underlying genealogical records; unrelated chronology and sourcing issues remain for separate evidence review.
+
 ## v1.3 — October 2025
 - Added live external URLs to all footnotes (IrishGenealogy.ie, IrishGraveyards.ie, National Archives of Ireland).
 - Matched all <section class="notes"> anchors to numbered references in Chapter IX.

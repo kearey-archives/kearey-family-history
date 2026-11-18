@@ -1,6 +1,6 @@
 # The Keary Family of Martry, Durhamstown, and Liscarton (c.1730–1978)
 
-A genealogical and sociohistorical digital publication detailing the Keary / Kearey / Carey family of County Meath, Ireland — tracing origins, landholding, and cultural life from the Penal era through the Dublin and London offshoots.
+A genealogical and sociohistorical digital publication examining Keary families in County Meath, Ireland, their landholding, family networks, and cultural circumstances. A separate chapter considers the Dublin–London Kearey family as a parallel history. A genealogical link between the two has not been established.
 
 ## Contents
 1. I. Introduction and Overview
@@ -10,18 +10,12 @@ A genealogical and sociohistorical digital publication detailing the Keary / Kea
 5. V. Collateral Branches and Later Generations (1900–1930)
 6. VI. Associated Families and Neighbour Networks (1900–1930)
 7. VII. The Meath Census Returns (1821–1911)
-8. VIII. The Dublin & London Offshoot (1791–Present)
+8. VIII. The Dublin and London Keareys: A Parallel Family History (1791–Present)
 9. IX. Economic, Religious, and Cultural Commentary (1730–1978)
 
 ## Structure
-/
-├── index.html
-├── chapter1.html … chapter9.html
-├── style.css
-├── manifest.json
-├── CHANGELOG.md
-├── LICENSE
-└── README.md
+
+The HTML chapters are stored at the repository root: `index.html`, `background.html`, `early.html`, `succession.html`, `branches.html`, `families.html`, `census.html`, `london.html`, and `context.html`. Supporting files include `style.css`, `manifest.json`, `sitemap.xml`, and this README.
 
 ## Features
 - Typographic monogram emblem (“K”) above title header  
