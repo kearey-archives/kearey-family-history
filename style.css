@@ -159,3 +159,14 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+/* Kearey Clan external research link */
+main.paper a[href="https://www.keareyclan.org/"] {
+  color: #7a382c;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+main.paper a[href="https://www.keareyclan.org/"]:hover {
+  color: #54251c;
+}
