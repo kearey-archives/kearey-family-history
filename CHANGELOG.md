@@ -1,3 +1,10 @@
+## Unreleased — County Meath genealogical identification review (proposed, not published)
+
+- Qualify unsupported links between the 1821 Durhamstown household and the Martry gravestone.
+- Separate the Thomas Keary 1909 and 1930 death entries from unverified census identifications and remove unsupported birth/death dates.
+- Distinguish household correspondence from proof of parentage, burial adjacency from proof of cousin relationships, and tenancy changes from proof of descent.
+- Preserve existing reported transcriptions and citations pending inspection of original census, civil and valuation records.
+
 # Keary Family History – CHANGELOG
 
 ## Source reconciliation — proposed, 18 November 2026 (not published)
